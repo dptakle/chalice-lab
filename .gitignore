@@ -1,0 +1,4 @@
+deployed.json
+deployments/
+.ropeproject
+*.pyc
